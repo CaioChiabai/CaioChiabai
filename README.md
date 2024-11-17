@@ -52,8 +52,19 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CaioChiabai&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CaioChiabai&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="131" alt="languages graph"  />
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=CaioChiabai&show_icons=true&theme=dracula&layout=compact"
+    media="(prefers-color-scheme: dark)"
+  />
+    <img src="https://github-readme-stats.vercel.app/api?username=CaioChiabai&show_icons=true&layout=compact" />
+  </picture>
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=CaioChiabai&theme=dracula"
+    media="(prefers-color-scheme: dark)"
+  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CaioChiabai&" />
 </div>
 
 ###
