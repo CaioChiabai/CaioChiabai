@@ -51,20 +51,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=CaioChiabai&show_icons=true&theme=dracula&layout=compact"
-    media="(prefers-color-scheme: dark)"
-  />
-    <img src="https://github-readme-stats.vercel.app/api?username=CaioChiabai&show_icons=true&layout=compact" />
-  </picture>
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=CaioChiabai&theme=dracula"
-    media="(prefers-color-scheme: dark)"
-  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CaioChiabai&" />
-</div>
+
 
 ###
