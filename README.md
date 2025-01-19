@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me chamo Caio Chiabai de Oliveira, atualmente sou estudante de Sistema de Informação do IFES. Me interesso pelo desenvolvimento back-end, e minhas principais linguagens são Java e Python. Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprender e botar em prática meus conhecimentos.</p>
+<p align="left">Me chamo Caio Chiabai de Oliveira, atualmente sou estudante de Sistema de Informação do IFES. Me interesso pelo desenvolvimento back-end, e minha principal linguagem é Java. Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprender e botar em prática meus conhecimentos.</p>
 
 ###
 
