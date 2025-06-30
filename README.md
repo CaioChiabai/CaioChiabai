@@ -1,15 +1,15 @@
-<h2 align="center">Caio Chiabai | Desenvolvedor Fullstack</h2>
+<h2 align="center">Caio Chiabai de Oliveira</h2>
 
 <p align="center">
-  🎓 Estudante de Sistemas de Informação no IFES <br>
-  💻 Backend com C# e Java | 🌐 Frontend com HTML, CSS, JS
+   <strong>Desenvolvedor Fullstack</strong> <br>
+   Backend com C# e Java | Frontend com HTML, CSS, JS
 </p>
 
 ---
 
 ### 👋 Sobre mim
 
-Soudesenvolvedor fullstack e estudante de Sistemas de Informação no IFES. Tenho foco em backend com C# e Java e frontend utilizando HTML, CSS, JavaScript.
+Sou um desenvolvedor fullstack e estudante de Sistemas de Informação no IFES. Tenho foco em backend com C# e Java e frontend utilizando HTML, CSS, JavaScript.
 
 Atualmente, estagio como desenvolvedor fullstack, onde aplico conhecimentos de arquitetura, versionamento com Git, consumo de APIs e construção de interfaces com boas práticas.
 
@@ -76,4 +76,5 @@ Sou apaixonado por tecnologia, estou sempre aprendendo e gosto de aplicar novos 
 
 ### 🌐 Contato
 
+<strong>caiochiabaioliveira@gmail.com</strong><br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/caiochiabai)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge)](https://www.instagram.com/caio_chiabai/)
