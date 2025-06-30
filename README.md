@@ -9,7 +9,7 @@
 
 ### 👋 Sobre mim
 
-Sou o Caio Chiabai, estudante de Sistemas de Informação no IFES e desenvolvedor fullstack em formação. Tenho foco em backend com C# e Java, além de experiência com frontend utilizando HTML, CSS, JavaScript e Ext JS.
+Soudesenvolvedor fullstack e estudante de Sistemas de Informação no IFES. Tenho foco em backend com C# e Java e frontend utilizando HTML, CSS, JavaScript.
 
 Atualmente, estagio como desenvolvedor fullstack, onde aplico conhecimentos de arquitetura, versionamento com Git, consumo de APIs e construção de interfaces com boas práticas.
 
@@ -19,24 +19,56 @@ Sou apaixonado por tecnologia, estou sempre aprendendo e gosto de aplicar novos 
 
 ### ⚙️ Tecnologias
 
-#### 💻 Backend  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring" />
-
-#### 🌐 Frontend  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-
-#### 🛠️ DevOps & Banco de Dados  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="left">Backend</h4>
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" title="C#" />&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt=".NET" title=".NET" />&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" title="Java" />&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring Boot" title="Spring Boot" />&nbsp;
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="left">Frontend</h4>
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" title="React" />&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" title="JavaScript" />&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" title="HTML5" />&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" title="CSS3" />&nbsp;
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="left">Banco de Dados</h4>
+        <p>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" title="PostgreSQL" />&nbsp;
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" title="MySQL" />&nbsp;
+        </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="left">Ferramentas & DevOps</h4>
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" title="Git" />&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" title="Docker" />&nbsp;
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🚀 Projetos em Destaque
 
-- [Montador de Cardápios para Restaurantes](https://github.com/CaioChiabai/montador-cardapio)  
-  Aplicação completa com React no frontend, .NET no backend e PostgreSQL como banco de dados. Permite que restaurantes criem, editem e publiquem cardápios com categorias e variações.
+- **[Montador de Cardápios para Restaurantes](https://github.com/CaioChiabai/montador-cardapio)**
+    - **Descrição:** Aplicação fullstack que permite a restaurantes criar, gerenciar e publicar cardápios online.
+    - **Tecnologias:** React, .NET e PostgreSQL.
 
-- [Barbearia com Spring Boot](https://github.com/CaioChiabai/Barbearia-with-Spring-Boot)  
-  Sistema backend RESTful desenvolvido em Java com Spring Boot. Inclui cadastro de serviços, agendamentos e usuários, seguindo boas práticas e organização em camadas.
+-  **[API REST para Barbearia](https://github.com/CaioChiabai/Barbearia-with-Spring-Boot)**
+    - **Descrição:** Backend para um sistema de barbearia com funcionalidades de agendamento, cadastro de serviços e gestão de usuários.
+    - **Tecnologias:** Java, Spring Boot e MySQL.
 
 > Veja mais projetos no meu [GitHub](https://github.com/CaioChiabai?tab=repositories).
 
